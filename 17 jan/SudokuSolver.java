@@ -73,6 +73,6 @@ public class SudokuSolver {
             System.out.println("No solution exists.");
         }
         
-        scanner.close();
+        
     }
 }
